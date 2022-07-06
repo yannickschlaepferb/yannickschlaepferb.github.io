@@ -92,7 +92,7 @@ article aside {
 
 body {
     background-color: #ffffff;
-    color: var(--color-text);
+    color: black;
     font-family: var(--font-family);
     line-height: var(--line-height);
     margin: 0;
